@@ -54,10 +54,8 @@ Halo! Saya **Noval Ramadhani**, seorang **Full Stack Developer** yang suka memba
 ## 📊 GitHub Statistik
 
 <div align="center">
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mnovaldr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnovaldr&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <br/>
@@ -69,8 +67,9 @@ Halo! Saya **Noval Ramadhani**, seorang **Full Stack Developer** yang suka memba
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mnovaldr&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnovaldr&theme=tokyonight" />
 </div>
+
 
 ---
 
@@ -78,9 +77,9 @@ Halo! Saya **Noval Ramadhani**, seorang **Full Stack Developer** yang suka memba
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mnovaldr/mnovaldr/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr.github.io/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr.github.io/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mnovaldr/mnovaldr.github.io/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
