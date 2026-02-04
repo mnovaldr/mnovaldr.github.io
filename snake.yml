@@ -1,11 +1,8 @@
 name: Generate Snake
 
 on:
-  # Berjalan otomatis setiap jam 12 malam
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Bisa dijalankan manual dari tab Actions
+    - cron: "0 17 * * *" # 00:00 WIB (UTC+7)
   workflow_dispatch:
 
 jobs:
@@ -13,18 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          # Nama user GitHub
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
