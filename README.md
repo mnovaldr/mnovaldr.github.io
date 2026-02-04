@@ -78,11 +78,12 @@ Halo! Saya **Noval Ramadhani**, seorang **Full Stack Developer** yang suka memba
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr.github.io/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr.github.io/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mnovaldr/mnovaldr.github.io/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnovaldr/mnovaldr/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mnovaldr/mnovaldr/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 
 <br/>
 
