@@ -39,7 +39,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat dalam menciptaka
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnovaldr&layout=compact&theme=tokyonight"/>
   </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnovaldr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mnovaldr&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
